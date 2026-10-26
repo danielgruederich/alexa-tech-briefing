@@ -1,0 +1,28 @@
+name: Feed aktualisieren
+
+on:
+  schedule:
+    # 04:30 UTC = 05:30/06:30 Köln — rechtzeitig vor der Morgenroutine
+    - cron: "30 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Feed generieren
+        run: npm run generate
+      - name: Feed committen
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "actions@github.com"
+          git add docs/feed.json
+          git diff --cached --quiet || git commit -m "Feed $(date -u +%F)"
+          git push

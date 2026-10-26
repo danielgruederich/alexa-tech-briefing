@@ -1,0 +1,11 @@
+{
+  "name": "alexa-tech-briefing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Daniels Tech-Briefing: Alexa-Flash-Briefing-Feed aus KI-, Tech- und Techno/DJ-Quellen",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "generate": "node scripts/generate-feed.mjs"
+  }
+}
