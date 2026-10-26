@@ -28,7 +28,11 @@ const SECTIONS = [
     maxItems: 4,
     maxAgeHours: 36,
     redirectionUrl: "https://techcrunch.com/",
-    sources: [{ name: "TechCrunch", url: "https://techcrunch.com/feed/" }],
+    sources: [
+      // heise als RSS statt als Skill: gleiche Meldungen, aber ohne die Werbung des heise-Flash-Briefings
+      { name: "heise online", url: "https://www.heise.de/rss/heise.rdf" },
+      { name: "TechCrunch", url: "https://techcrunch.com/feed/" },
+    ],
   },
   {
     title: "Techno und DJ-News",
