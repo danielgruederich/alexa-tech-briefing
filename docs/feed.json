@@ -1,23 +1,23 @@
 [
   {
-    "uid": "urn:uid:daniels-tech-briefing:2026-11-02:0",
-    "updateDate": "2026-11-02T12:43:06.0Z",
+    "uid": "urn:uid:daniels-tech-briefing:2026-11-03:0",
+    "updateDate": "2026-11-03T12:08:39.0Z",
     "titleText": "KI-News",
-    "mainText": "Die wichtigsten KI-Meldungen: Workslop. Wenn KI Vertrauen kostet. | Schere. Stein. KI.. KI spart Arbeit – und macht sie anderen? (The Decoder.) OpenAI might rebrand its data centers as ‘AI compute campuses’. Data centers are deeply unpopular. (TechCrunch AI.) Ölkonzern Saudi Aramco kauft sich für den KI-Ausbau groß bei Humain ein. Saudi Aramco steigt bei Humain ein, das Saudi-Arabien zu einem internationalen KI-Standort machen soll. (The Decoder.) AI can make tech CEOs’ lives easier. What about everyone else?. On Equity, we discuss why tech CEO statements can seem so tone deaf. (TechCrunch AI.) Angst vor strengeren Regeln: Wie OpenAI die US-Politik beeinflussen will. OpenAI bereitet für die Zeit nach den US-Zwischenwahlen eine politische Lobby- und PR-Offensive vor. (The Decoder.)",
+    "mainText": "Die wichtigsten KI-Meldungen: Huawei sagt Kunden, sie sollen Speicherchips für KI-Prozessoren selbst beschaffen. Huawei kann nicht genug Speicher für seine KI-Chips liefern und schickt Kunden damit auf den Schwarzmarkt. (The Decoder.) Apple Watch’s AI features for rewinding and recapping conversations begin beta testing. Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations. (TechCrunch AI.) OpenAI zahlt Sicherheitsforschern mehr und startet neuen Security Sprint. OpenAI vervierfacht die Prämien seines Bug-Bounty-Programms und startet einen neuen internen Sicherheitssprint. (The Decoder.) Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses. Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages. (TechCrunch AI.) Anthropic reagiert auf Klon-Welle und sperrt Spielenachbauten in Claude Code. Anthropic verbietet seinem Coding-Assistenten Claude Code, bestehende Videospiele nachzubauen. (The Decoder.)",
     "redirectionUrl": "https://the-decoder.de/"
   },
   {
-    "uid": "urn:uid:daniels-tech-briefing:2026-11-02:1",
-    "updateDate": "2026-11-02T12:43:06.0Z",
+    "uid": "urn:uid:daniels-tech-briefing:2026-11-03:1",
+    "updateDate": "2026-11-03T12:08:39.0Z",
     "titleText": "Tech-News",
-    "mainText": "Aus der Tech-Welt: heise+ | Malware-Lage 2026: Weniger Lösegeld, mehr Lücken, neue Tricks. Ransomware-Gangs jagen große Fische, Fake-Captchas schleusen Infostealer ein, KI spürt Lücken auf. (heise online.) Ford launches a ‘privacy promise’ and explains how and why it uses customer data. Ford said it's making an \"explicit commitment\" to its customers that \"their vehicle data is safe\" with the company. (TechCrunch.) Kühlschränke in Lebensmittelläden weiterer Länder geknackt. Vor Kurzem gab es Angriffe auf Kühlschränke französischer Supermärkte. (heise online.) Borrowed reading: stories from our extended colleagues. Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld. (TechCrunch.)",
+    "mainText": "Aus der Tech-Welt: HomeView: Apples Heimzentrale könnte Überwachungskamera werden. Code in der HomeView Software 27.2 legt nahe, dass Apple eine weitere Funktion für seine Heimzentrale plant, die mit Sicherheit zu tun hat. (heise online.) Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene. Evertrue Capital announces $17M debut fund to back early stage AI and fintech. (TechCrunch.) Digitaler Führerschein kommt Ende November. Der „Lappen“ kann bald zu Hause bleiben: Der digitale Führerschein auf dem Smartphone soll Ende November eingeführt werden. (heise online.) Apple may try to increase revenue by doing…something with third-party AI apps. Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call. (TechCrunch.)",
     "redirectionUrl": "https://techcrunch.com/"
   },
   {
-    "uid": "urn:uid:daniels-tech-briefing:2026-11-02:2",
-    "updateDate": "2026-11-02T12:43:06.0Z",
+    "uid": "urn:uid:daniels-tech-briefing:2026-11-03:2",
+    "updateDate": "2026-11-03T12:08:39.0Z",
     "titleText": "Techno und DJ-News",
-    "mainText": "Neues aus der Szene: Juan Atkins, Detroit techno pioneer, has died. The visionary artist who helped shape the sound of Motor City was reportedly found unresponsive in a hotel room in Mexico City on Saturday (31st) (DJ Mag.) Man arrested following stabbing at London nightclub Studio 338. The incident occurred during a Halloween event on Friday night (Mixmag.) Cevin Fisher, celebrated New Jersey house DJ and producer, dies aged 63. A fixture of the US house scene for four decades, Fisher was behind anthems including ‘The Freaks Come Out’ and ‘(You Got Me) Burnin’ Up’ (DJ Mag.) Techno originator Juan Atkins has died aged 64. The Detroit pioneer was discovered unresponsive in a hotel room ahead of a performance in Mexico City, his management has confirmed (Mixmag.)",
+    "mainText": "Neues aus der Szene: Logic1000's radical self-acceptance. In the late 2010s Samantha Poulter, AKA Logic1000, dropped music that put her on the radar of some of dance music’s most celebrated acts. (DJ Mag.) Police arrest over 400 people following raid on Kuala Lumpur nightclub. A police chief said that all detainees were taken for drug testing (Mixmag.) Loopmasters announces latest sample subscription and production platform, Loopcloud 8. \"The most complete version of Loopcloud\" released to date (DJ Mag.) Man arrested following stabbing at London nightclub Studio 338. The incident occurred during a Halloween event on Friday night (Mixmag.)",
     "redirectionUrl": "https://djmag.com/"
   }
 ]
