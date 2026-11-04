@@ -1,23 +1,23 @@
 [
   {
-    "uid": "urn:uid:daniels-tech-briefing:2026-11-03:0",
-    "updateDate": "2026-11-03T12:08:39.0Z",
+    "uid": "urn:uid:daniels-tech-briefing:2026-11-04:0",
+    "updateDate": "2026-11-04T12:21:25.0Z",
     "titleText": "KI-News",
-    "mainText": "Die wichtigsten KI-Meldungen: Huawei sagt Kunden, sie sollen Speicherchips für KI-Prozessoren selbst beschaffen. Huawei kann nicht genug Speicher für seine KI-Chips liefern und schickt Kunden damit auf den Schwarzmarkt. (The Decoder.) Apple Watch’s AI features for rewinding and recapping conversations begin beta testing. Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations. (TechCrunch AI.) OpenAI zahlt Sicherheitsforschern mehr und startet neuen Security Sprint. OpenAI vervierfacht die Prämien seines Bug-Bounty-Programms und startet einen neuen internen Sicherheitssprint. (The Decoder.) Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses. Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages. (TechCrunch AI.) Anthropic reagiert auf Klon-Welle und sperrt Spielenachbauten in Claude Code. Anthropic verbietet seinem Coding-Assistenten Claude Code, bestehende Videospiele nachzubauen. (The Decoder.)",
+    "mainText": "Die wichtigsten KI-Meldungen: Exit-Polls zeigen: KI spielt bei US-Midterms 2026 eine untergeordnete Rolle für Wähler. Bei den US-Midterms 2026 landete KI als Wahlthema auf dem letzten Platz: Nur 56 Prozent der Befragten nannten KI und Rechenzentren als wichtigen Faktor. (The Decoder.) Anthropic is working on a system to prove AI models’ identity. Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from. (TechCrunch AI.) Wer Googles KI in der Schule abschaltet verliert ab 2027 auch die Suche. Google will KI-Funktionen in Schulprodukten ab 2027 standardmäßig abschalten und Schulen die Wahl lassen. (The Decoder.) Data centers are turning to old jet engines as the wait for power grows. The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally … (TechCrunch AI.) OpenAIs GPT-6-Astra designt in unter einer Woche ein KI-Gadget vom Gehäuse bis zur Firmware. Zwei OpenAI-Ingenieure haben mit GPT-6-Astra in weniger als einer Woche ein Hardware-Gerät für den Coding-Agenten Codex entworfen – vom Gehäuse über die … (The Decoder.)",
     "redirectionUrl": "https://the-decoder.de/"
   },
   {
-    "uid": "urn:uid:daniels-tech-briefing:2026-11-03:1",
-    "updateDate": "2026-11-03T12:08:39.0Z",
+    "uid": "urn:uid:daniels-tech-briefing:2026-11-04:1",
+    "updateDate": "2026-11-04T12:21:25.0Z",
     "titleText": "Tech-News",
-    "mainText": "Aus der Tech-Welt: HomeView: Apples Heimzentrale könnte Überwachungskamera werden. Code in der HomeView Software 27.2 legt nahe, dass Apple eine weitere Funktion für seine Heimzentrale plant, die mit Sicherheit zu tun hat. (heise online.) Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene. Evertrue Capital announces $17M debut fund to back early stage AI and fintech. (TechCrunch.) Digitaler Führerschein kommt Ende November. Der „Lappen“ kann bald zu Hause bleiben: Der digitale Führerschein auf dem Smartphone soll Ende November eingeführt werden. (heise online.) Apple may try to increase revenue by doing…something with third-party AI apps. Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call. (TechCrunch.)",
+    "mainText": "Aus der Tech-Welt: Calif.io: iOS-Angriff killt Blockierungsmodus, bleibt über Update persistent. Das Security-Team Calif.io hat nach dem ersten Untethered-Jailbreak für iOnun auch Apples Lockdown-Mode überwunden. (heise online.) Canva lays off over 1,200 people amid slowing growth. Canva is cutting 22% of its staff as it faces its 'hardest year' yet. (TechCrunch.) Nach Gefriertruhen-Attacken: Jetzt Blutbank-Kühlung im Visier. In Frankreich haben Angreifer versucht, die Kühlsteuerung eines Lagers für Blutprodukte zu manipulieren. (heise online.) India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market. StoryTV has more than 33 million monthly active users according to Sensor Tower figures (TechCrunch.)",
     "redirectionUrl": "https://techcrunch.com/"
   },
   {
-    "uid": "urn:uid:daniels-tech-briefing:2026-11-03:2",
-    "updateDate": "2026-11-03T12:08:39.0Z",
+    "uid": "urn:uid:daniels-tech-briefing:2026-11-04:2",
+    "updateDate": "2026-11-04T12:21:25.0Z",
     "titleText": "Techno und DJ-News",
-    "mainText": "Neues aus der Szene: Logic1000's radical self-acceptance. In the late 2010s Samantha Poulter, AKA Logic1000, dropped music that put her on the radar of some of dance music’s most celebrated acts. (DJ Mag.) Police arrest over 400 people following raid on Kuala Lumpur nightclub. A police chief said that all detainees were taken for drug testing (Mixmag.) Loopmasters announces latest sample subscription and production platform, Loopcloud 8. \"The most complete version of Loopcloud\" released to date (DJ Mag.) Man arrested following stabbing at London nightclub Studio 338. The incident occurred during a Halloween event on Friday night (Mixmag.)",
+    "mainText": "Neues aus der Szene: ADE 2027 dates announced. This year’s annual industry conference wrapped up at the end of last month (DJ Mag.) London Mayor Sadiq Khan gains licensing powers for music venues and festivals. The “historic” powers allow Khan to make direct decisions on licensing applications for the first time ever (Mixmag.) James Hype to attempt 1,000-track DJ set in two hours using 16 CDJs. “In December 2026, I’m attempting something I think is impossible” (DJ Mag.) RIP Juan Atkins, the techno originator who changed the world. Juan Atkins was the pioneer whose foundational influence has inspired everyone. (Mixmag.)",
     "redirectionUrl": "https://djmag.com/"
   }
 ]
