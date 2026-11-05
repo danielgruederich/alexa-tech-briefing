@@ -1,23 +1,23 @@
 [
   {
-    "uid": "urn:uid:daniels-tech-briefing:2026-11-04:0",
-    "updateDate": "2026-11-04T12:21:25.0Z",
+    "uid": "urn:uid:daniels-tech-briefing:2026-11-05:0",
+    "updateDate": "2026-11-05T12:35:45.0Z",
     "titleText": "KI-News",
-    "mainText": "Die wichtigsten KI-Meldungen: Exit-Polls zeigen: KI spielt bei US-Midterms 2026 eine untergeordnete Rolle für Wähler. Bei den US-Midterms 2026 landete KI als Wahlthema auf dem letzten Platz: Nur 56 Prozent der Befragten nannten KI und Rechenzentren als wichtigen Faktor. (The Decoder.) Anthropic is working on a system to prove AI models’ identity. Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from. (TechCrunch AI.) Wer Googles KI in der Schule abschaltet verliert ab 2027 auch die Suche. Google will KI-Funktionen in Schulprodukten ab 2027 standardmäßig abschalten und Schulen die Wahl lassen. (The Decoder.) Data centers are turning to old jet engines as the wait for power grows. The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally … (TechCrunch AI.) OpenAIs GPT-6-Astra designt in unter einer Woche ein KI-Gadget vom Gehäuse bis zur Firmware. Zwei OpenAI-Ingenieure haben mit GPT-6-Astra in weniger als einer Woche ein Hardware-Gerät für den Coding-Agenten Codex entworfen – vom Gehäuse über die … (The Decoder.)",
+    "mainText": "Die wichtigsten KI-Meldungen: OpenAI verspricht Transparenz bei Rechenzentren nach politischem Gegenwind bei US-Midterms. OpenAI reagiert auf das klare Votum der US-Wähler gegen neue Rechenzentren mit freiwilligen Selbstverpflichtungen für künftige Standorte. (The Decoder.) Agility is the first pure humanoid robot company on the stock market. Are you buying?. Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company. (TechCrunch AI.) OpenAI holt sich Anthropics Gründungs-Produktchefin von Claude Code. Catherine Wu, Gründungs-Produktchefin von Claude Code, wechselt zu OpenAI und verantwortet dort künftig das Produktmanagement für \"Core Products\". (The Decoder.) Apple is reportedly cutting budgets for its internal AI usage. The company is said to be significantly dropping the amount it's spending on AI for its engineering teams. (TechCrunch AI.) Strategiewechsel bei Anthropic: KI-Firma zahlt erstmals für Verlagsinhalte. Anthropic hat kurz vor den US-Zwischenwahlen seinen ersten Lizenzvertrag mit einem Nachrichtenverlag geschlossen. (The Decoder.)",
     "redirectionUrl": "https://the-decoder.de/"
   },
   {
-    "uid": "urn:uid:daniels-tech-briefing:2026-11-04:1",
-    "updateDate": "2026-11-04T12:21:25.0Z",
+    "uid": "urn:uid:daniels-tech-briefing:2026-11-05:1",
+    "updateDate": "2026-11-05T12:35:45.0Z",
     "titleText": "Tech-News",
-    "mainText": "Aus der Tech-Welt: Calif.io: iOS-Angriff killt Blockierungsmodus, bleibt über Update persistent. Das Security-Team Calif.io hat nach dem ersten Untethered-Jailbreak für iOnun auch Apples Lockdown-Mode überwunden. (heise online.) Canva lays off over 1,200 people amid slowing growth. Canva is cutting 22% of its staff as it faces its 'hardest year' yet. (TechCrunch.) Nach Gefriertruhen-Attacken: Jetzt Blutbank-Kühlung im Visier. In Frankreich haben Angreifer versucht, die Kühlsteuerung eines Lagers für Blutprodukte zu manipulieren. (heise online.) India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market. StoryTV has more than 33 million monthly active users according to Sensor Tower figures (TechCrunch.)",
+    "mainText": "Aus der Tech-Welt: heise+ | Linux-Dateimanager Nemo mit eigenen Skripten und Actions erweitern. Der Linux-Dateimanager Nemo lässt sich leicht um zusätzliche Funktionen erweitern. (heise online.) Amazon ditches GrubHub, taps Uber Eats for Prime. Amazon has made Uber Eats its official restaurant delivery partner for Prime members in the United States. (TechCrunch.) KI-Modelle: Apple-Entwickler sollen sparen. Nichts mehr mit „Tokenmaxxing“: Bei Apple sind interne KI-Sparmaßnahmen angesagt. (heise online.) After the midterms, a bigger clash over data centers could be coming. Data center opposition crossed party lines in Tuesday’s midterms. (TechCrunch.)",
     "redirectionUrl": "https://techcrunch.com/"
   },
   {
-    "uid": "urn:uid:daniels-tech-briefing:2026-11-04:2",
-    "updateDate": "2026-11-04T12:21:25.0Z",
+    "uid": "urn:uid:daniels-tech-briefing:2026-11-05:2",
+    "updateDate": "2026-11-05T12:35:45.0Z",
     "titleText": "Techno und DJ-News",
-    "mainText": "Neues aus der Szene: ADE 2027 dates announced. This year’s annual industry conference wrapped up at the end of last month (DJ Mag.) London Mayor Sadiq Khan gains licensing powers for music venues and festivals. The “historic” powers allow Khan to make direct decisions on licensing applications for the first time ever (Mixmag.) James Hype to attempt 1,000-track DJ set in two hours using 16 CDJs. “In December 2026, I’m attempting something I think is impossible” (DJ Mag.) RIP Juan Atkins, the techno originator who changed the world. Juan Atkins was the pioneer whose foundational influence has inspired everyone. (Mixmag.)",
+    "mainText": "Neues aus der Szene: Juan Atkins RIP: remembering the Detroit techno architect who found connections everywhere. Tributes to techno Godfather Juan Atkins following his death at the age of 64 have rightly focused on his status as a genre pioneer, but the Detroit originator … (DJ Mag.) Copenhagen station Drift Radio raising funds for equipment following robbery. More than £10,000 worth of equipment was stolen from the Mimersgade radio station (Mixmag.) Yaeji shares new single, ‘DDR’, with Enayet and K Wata: Listen. The track combines elements of Chicago footwork with influences from queer club culture (DJ Mag.) London Mayor Sadiq Khan gains licensing powers for music venues and festivals. The “historic” powers allow Khan to make direct decisions on licensing applications for the first time ever (Mixmag.)",
     "redirectionUrl": "https://djmag.com/"
   }
 ]
