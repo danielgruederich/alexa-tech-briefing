@@ -1,21 +1,21 @@
 [
   {
-    "uid": "urn:uid:daniels-tech-briefing:2026-11-14:0",
-    "updateDate": "2026-11-14T11:39:09.0Z",
+    "uid": "urn:uid:daniels-tech-briefing:2026-11-15:0",
+    "updateDate": "2026-11-15T12:06:06.0Z",
     "titleText": "KI-News",
-    "mainText": "Die wichtigsten KI-Meldungen: Claude Mythos war kein Ausreißer, sondern Teil eines sich beschleunigenden Trends, sagt Ex-Forscher. Der Ex-OpenAI- und Anthropic-Forscher Jacob Coxon nennt eine Folie aus der IPO-Roadshow als Grund für seinen Abgang: Sie zeige, dass Anthropics Algorithmen … (The Decoder.) Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say. Nvidia poured tens of billions into AI startups under Huang. (TechCrunch AI.) OpenAI verteilt Robotik-Forscher auf andere Teams, weil Allzweckmodelle spezialisierte Robotik-KI überflüssig machen. OpenAI löst sein eigenständiges Robotik-Team erneut auf. (The Decoder.) AI agent startup LangChain hits $3B valuation. LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith. (TechCrunch AI.) Robotermodell als Open Source: Runway gibt Robotik-Modell Praxis-1 mit Gewichten frei. Runway veröffentlicht sein Robotik-Modell Praxis-1 mit offenen Gewichten und Quellcode unter Apache-2.0-Lizenz. (The Decoder.)",
+    "mainText": "Die wichtigsten KI-Meldungen: Firma von Jensen Huangs Ex-Geliebter soll Nvidia-Chips für 12 Milliarden Dollar nach China vermittelt haben. Laut einem WSJ-Bericht arrangierte Megaspeed – die Firma von Jensen Huangs früherer Geliebter Alice Huang – zwischen 2024 und 2025 Nvidia-Chip-Bestellungen im … (The Decoder.) Where was Nvidia’s security team?. Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a … (TechCrunch AI.) Australische Zentralbank sieht erste KI-Effekte auf dem Arbeitsmarkt: vor allem junge Berufseinsteiger betroffen. Die australische Zentralbank sieht erste Anzeichen, dass KI junge Berufseinsteiger in stark exponierten Jobs wie Softwareentwicklung oder Kundenservice trifft: … (The Decoder.) Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang. The petition had attracted more than 115,000 signatures as of Saturday afternoon. (TechCrunch AI.) LongCat-2.5: Meituan gibt Gewichte seines 1,6-Billionen-Parameter-Modells für KI-Agenten frei. Meituan gibt die Gewichte von LongCat-2.5 frei – einem 1,6-Billionen-Parameter-Modell für KI-Agenten, das vollständig auf chinesischer Hardware trainiert wurde. (The Decoder.)",
     "redirectionUrl": "https://the-decoder.de/"
   },
   {
-    "uid": "urn:uid:daniels-tech-briefing:2026-11-14:1",
-    "updateDate": "2026-11-14T11:39:09.0Z",
+    "uid": "urn:uid:daniels-tech-briefing:2026-11-15:1",
+    "updateDate": "2026-11-15T12:06:06.0Z",
     "titleText": "Tech-News",
-    "mainText": "Aus der Tech-Welt: Microsoft-Ausfall: Woran es lag und wer besonders litt. Keine KI, keine Cyberattacke, soweit Microsofts erste Erklärung. (heise online.) Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price. The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. (TechCrunch.) Adobe, VSCO und Hyänen – die Fotonews der Woche 46/2026. Adobe zeigt die KI-Zukunft, VSCO verspricht Datenschutz, südkoreanische Fotografen fordern Ermittlungen und Netflix würdigt Avedon. (heise online.) US government grounds all flights across the United States ‘due to extraordinary circumstances’. A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control … (TechCrunch.)",
+    "mainText": "Aus der Tech-Welt: heise-Angebot: c’t-Webinar: Claude in der Praxis – vom ersten Chat zum eignen Assistenten. Claude kann mehr als Fragen beantworten. (heise online.) Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee. Even Elon Musk said the monthly fee is \"too high.\" (TechCrunch.) Angreifer verketteten PHP2Shell mit Root-Lücke auf Check-Point-Gateways. Angreifer nutzten verkettete Lücken für Hintertüren auf Check-Point-Gateways. (heise online.) Got an iPhone Duo? These 9 settings make it easier to use. From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day. (TechCrunch.)",
     "redirectionUrl": "https://techcrunch.com/"
   },
   {
-    "uid": "urn:uid:daniels-tech-briefing:2026-11-14:2",
-    "updateDate": "2026-11-14T11:39:09.0Z",
+    "uid": "urn:uid:daniels-tech-briefing:2026-11-15:2",
+    "updateDate": "2026-11-15T12:06:06.0Z",
     "titleText": "Techno und DJ-News",
     "mainText": "Neues aus der Szene: 10 essential Juan Atkins tracks that set techno in motion. Few artists have altered the course of music quite like Juan Atkins. (DJ Mag.) Independent record stores to host GTA VI album listening parties next week. Stores across the US, UK, Germany, South Korea, France, Australia and more will play the record ahead of the game's release on November 19 (Mixmag.) New book, Transients, explores how electronic music has been shaped by technology and time. Author David Reid drew on three decades of experience in the music industry to write the book (DJ Mag.) New nightclub and record store opens in Manchester, Resident. The venue also comprises a five-floor bar and kitchen (Mixmag.)",
     "redirectionUrl": "https://djmag.com/"
